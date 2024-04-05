@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SONY",SONY HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:-1 tvg-id="7SMusic.in",7S Music (576p) [Not 24/7]
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="9XM.in",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="A1TVRajasthan.in",A1 TV Rajasthan (720p)
+https://5b48d7e1b4bce.streamlock.net/myapp/a1live/playlist.m3u8
