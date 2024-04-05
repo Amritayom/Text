@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SONY" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
+#EXTINF:-1 tvg-id="SONY",SONY HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
