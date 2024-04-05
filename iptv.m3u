@@ -1033,19 +1033,19 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBdbLwgmXvg5Wm2rQqJvuv1PwzwPkwvnhD3LJA3G2vfDzEffTAhHwA0yZtLv0nMvfzfzrBLj1tvC5Afbumd0&auth=4d67722628718a521735bf8c2deceac8c2176fbfbfa1d0e9e3ff4168274e8ac4
 #EXTINF:-1 group-title="MUSIC",SANGEET MARATHI
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBdbLwgmXvg5Wm2rQqJvuvwHxuvu1Au1vtK5tmvO2wJnAtMvyAdjvmfjQt1zcq1rysK1sv00XvKCWEMruut0&auth=f174f4df51129547366e33f76c9adb5c7dbc2d406a48fd42d19c059563a9f3b4
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTINF:-1, zabava5
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_3840x2160_avc1/variant.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla 5.0
+#EXTINF:-1 , zabava4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTINF:-1 ,Zawava3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_3840x2160_avc1/variant.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla 5.0
+#EXTINF:-1 , Zabawa 2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 ,Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTINF:-1 , zavava live
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/video_3840x2160_avc1/variant.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/100.0.4896.58 Mobile Safari/537.36 EdgA/97.0.1072.69
+#EXTINF:-1 , Zabava
 http://dmi3y-tv.ru/hls/zabava/CH_ULTRAHDCINEMAHD.m3u8
 #EXTINF:-1 ,BACKUS TV HD
 http://stream.backustv.ru/live/btv/index.m3u8
@@ -1067,7 +1067,7 @@ http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="Микс",Kino24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTINF:-1 ,zavaba6
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Хиты",НТВ-Хит HD
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
