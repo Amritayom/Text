@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SONY" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
+#EXTINF:-1 tvg-id="Sony Liv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONY",SONY HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:-1 group-title="SONY" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
@@ -175,11 +175,11 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
 #EXTINF:-1 group-title="Door Darshan" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG-20240129-064856.jpg",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 group-title="Bhojpuri";"Movie" tvg-logo="https://i.ibb.co/NVKThvd/images-2024-03-07-T114349-602.jpg",Enter 10
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.ibb.co/NVKThvd/images-2024-03-07-T114349-602.jpg",Enter 10
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
-#EXTINF:-1 group-title="Colors;Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX
 http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
-#EXTINF:-1 group-title="Colors;Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX HD
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX HD
 http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 group-title="Hindi News" tvg-logo="https://i.ibb.co/zRbNnXb/IMG-20240126-120257.png",Zee News
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
@@ -193,9 +193,9 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://i.ibb.co/fxSX6yv/IMG-20240126-121202.jpg",BollyWooD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
-#EXTINF:-1 group-title="English;Music" tvg-logo="https://i.ibb.co/f9qySjS/IMG-20240126-102541.png",Brat TV
+#EXTINF:-1 group-title="English Music" tvg-logo="https://i.ibb.co/f9qySjS/IMG-20240126-102541.png",Brat TV
 https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="English;Sport" tvg-logo="https://i.ibb.co/6ZHWbNm/IMG-20240126-093911.jpg",AMG TV
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/6ZHWbNm/IMG-20240126-093911.jpg",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.ibb.co/94Dgbyf/IMG-20240129-065844.jpg",Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
@@ -205,7 +205,7 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://i.postimg.cc/fb32TVxH/Bollywood-Hungama.jpg",Bollywood Hungama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
-#EXTINF:-1 group-title="Hindi;General" tvg-logo="https://i.postimg.cc/KzmBgP5J/Bollywood-Prime-thumbnail.png",Bollywood Prime
+#EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/KzmBgP5J/Bollywood-Prime-thumbnail.png",Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1 tvg-id="GlobalPunjab.in" tvg-logo="https://i.imgur.com/WDLqcWW.png" group-title="General",Global Punjab (1080p)
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
@@ -247,7 +247,7 @@ https://ythls.armelin.one/channel/UCIAnlTV3O9NYWMI-DwYZaWg.m3u8
 https://ythls.armelin.one/channel/UCbdMik2cV8pea1jcWdX_CYA.m3u8
 #EXTINF:-1 tvg-id="DDGirnar.in" tvg-logo="https://i.imgur.com/4RT559e.png" group-title="DoorDarshan",DD Girnar (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCneBFse451PgKgXJTDqikYA.m3u8
-#EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="https://i.imgur.com/45uptR8.png" group-title="DoorDarshan;General",DD India (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="https://i.imgur.com/45uptR8.png" group-title="DoorDarshan",DD India (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 #EXTINF:-1 tvg-id="DDKashir.in" tvg-logo="https://i.imgur.com/1EI4LOf.png" group-title="DoorDarshan",DD Kashir (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCOqU-HfQxoyImaCW2tCDxJA.m3u8
@@ -257,7 +257,7 @@ https://ythls.armelin.one/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8
 https://ythls.armelin.one/channel/UC4--pPs1CVZvs60uuhfjdwQ.m3u8
 #EXTINF:-1 tvg-id="DDManipur.in" tvg-logo="https://i.imgur.com/CvmIwPF.png" group-title="DoorDarshan",DD Manipur
 https://ddmanipur.org/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="DoorDarshan;News",DD News (1080p)
+#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News",DD News (1080p)
 https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 #EXTINF:-1 tvg-id="DDPodhigai.in" tvg-logo="https://i.imgur.com/vbjkE84.png" group-title="DoorDarshan",DD Podhigai (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC5-_zkjKabYd7tsLucKsriw.m3u8
@@ -267,7 +267,7 @@ https://ythls.armelin.one/channel/UC01EXbytWkjUdgwA5xXQZiw.m3u8
 https://ythls.armelin.one/channel/UC8GYp35wJTN2ituJr0y-7AQ.m3u8
 #EXTINF:-1 tvg-id="DDSahyadri.in" tvg-logo="https://i.imgur.com/svjI6U6.png" group-title="DoorDarshan",DD Sahyadri (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC-bdz-5EeUPT7lp7oSg4D5w.m3u8
-#EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="DoorDarshan;Sports",DD Sports (576p)
+#EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="Sports",DD Sports (576p)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-id="DDTripura.in" tvg-logo="https://i.imgur.com/ctlcdOw.png" group-title="DoorDarshan",DD Tripura (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCtmSIB1S2LsT5OXC6H6x_rA.m3u8
@@ -335,7 +335,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://i.postimg.cc/dVdvdMNt/sjM1MbFR.jpg",Zee Cinema HD
 http://103.120.172.74:4100
-#EXTINF:-1 group-title="General; Hindi" tvg-logo="https://i.postimg.cc/1XD0g9zs/Zeetv.jpg",Zee TV
+#EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/1XD0g9zs/Zeetv.jpg",Zee TV
 http://103.120.172.74:1140
 #EXTINF:-1 group-title="Bhojpuri" tvg-logo="https://i.postimg.cc/SKdkK8RN/Bhojpuri-Cinema.png",Bhojpuri Cinema [SamsungTVPlus]
 https://amg01448-samsungin-enterr10bhojpuri-samsungin-ad-fv.amagi.tv/playlist/amg01448-samsungin-enterr10bhojpuri-samsungin/playlist.m3u8
