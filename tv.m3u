@@ -699,15 +699,15 @@ https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 group-title="Music English" tvg-logo="https://i.postimg.cc/mrZz9kct/fQUzBsz.png",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/XJRyq0q6/Traceurban2022.png",Trace Urban
+#EXTINF:-1 group-title="Music English" tvg-logo="https://i.postimg.cc/XJRyq0q6/Traceurban2022.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/brsfw42P/v2beat.jpg",V2BEAT TV
+#EXTINF:-1 group-title="Music English" tvg-logo="https://i.postimg.cc/brsfw42P/v2beat.jpg",V2BEAT TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/brsfw42P/v2beat.jpg",V2BEAT TV
+#EXTINF:-1 group-title="Music English" tvg-logo="https://i.postimg.cc/brsfw42P/v2beat.jpg",V2BEAT TV
 https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/pLd6TQp0/Logo-XITE-2017-zwart.png",XITE
+#EXTINF:-1 group-title="Music English" tvg-logo="https://i.postimg.cc/pLd6TQp0/Logo-XITE-2017-zwart.png",XITE
 https://xite-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/pLd6TQp0/Logo-XITE-2017-zwart.png",XITE
+#EXTINF:-1 group-title="Music English" tvg-logo="https://i.postimg.cc/pLd6TQp0/Logo-XITE-2017-zwart.png",XITE 2
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w508382778_b3328000_slNLD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/pdRS6X7R/be-IN-Sports-1.png",beIN Sports 1 [True Visions]
 https://edge2.laotv.la/live/Bsport1/index.m3u8
@@ -803,9 +803,9 @@ https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlis
 https://dx475k80omgk3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pw99oafctey65/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/CLDpyrwN/All-Weddings.jpg",All Weddings
 https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg",Animal Planet HD
+#EXTINF:-1 group-title="Animal" tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg",Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg",Animal Planet HD
+#EXTINF:-1 group-title="Animal" tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg",Animal Planet HD
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/3rBNM7B0/452-144.png",BBC Earth
 http://94.250.2.6:10600/play/7cgV608bN1
@@ -893,7 +893,7 @@ https://eab55cb96c3d436a99afc4c6f9e27252.mediatailor.us-east-1.amazonaws.com/v1/
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/N0CxLJbN/Wild-Earth.png",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/N0CxLJbN/Wild-Earth.png",Wild Earth
+#EXTINF:-1 group-title="Animal" tvg-logo="https://i.postimg.cc/N0CxLJbN/Wild-Earth.png",Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/K4SyQW7q/image_86.jpg",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
