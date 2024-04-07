@@ -187,7 +187,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
 https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
 #EXTINF:-1 tvg-id="NewsX.in" tvg-logo="https://i.imgur.com/Zpxsc0Q.png" group-title="News English",News X (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="News English Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News Engligh Int",TRT World (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="News English Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News English Int",TRT World (720p) [Not 24/7]
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NewsStateUPUK.in" tvg-logo="https://i.imgur.com/dQLaY5N.png" group-title="News Hindi",News State UP & UK (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCeNP3dAy9_A32IWYZq_PZMQ.m3u8
@@ -451,7 +451,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 group-title="Music Hindi" tvg-logo="https://i.ibb.co/wKPkb8s/IMG-20240129-070202.png",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-logo="https://i.imgur.com/gaKzWdo.png" group-title="Hindi Music",Boogle Bollywood (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-logo="https://i.imgur.com/gaKzWdo.png" group-title="Music Hindi",Boogle Bollywood (1080p) [Not 24/7]
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 group-title="Music Hindi" tvg-logo="https://i.ibb.co/MVtcdVM/IMG-20240126-094633.png",9X TASHAN
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
@@ -693,9 +693,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-tinypop-samsu
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="English Music" tvg-logo="https://i.postimg.cc/RFrMsR7Y/download-1.jpg",1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://i.postimg.cc/7YRY0nxX/image86b5f8b135364512.jpg",9XM
+#EXTINF:-1 group-title="Music Hindi" tvg-logo="https://i.postimg.cc/7YRY0nxX/image86b5f8b135364512.jpg",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8
-#EXTINF:-1 group-title="Music Music" tvg-logo="https://i.postimg.cc/ydzGr4yP/9X-Jalwa.png",9X Jalwa
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/ydzGr4yP/9X-Jalwa.png",9X Jalwa
 http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/QC6KMRy6/9x-Jhakaas.png",9X Jhakaas
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
@@ -1113,7 +1113,7 @@ https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://play-lh.googleusercontent.com/mOkjjo5Rzcpk7BsHrsLWnqVadUK1FlLd2-UlQvYkLL4E9A0LpyODNIQinXPfUMjUrbE=w480-h960-rw",9x Tashan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://play-lh.googleusercontent.com/mOkjjo5Rzcpk7BsHrsLWnqVadUK1FlLd2-UlQvYkLL4E9A0LpyODNIQinXPfUMjUrbE=w480-h960-rw",9x Jalwa
+#EXTINF:-1 group-title="Music Hindi" tvg-logo="https://play-lh.googleusercontent.com/mOkjjo5Rzcpk7BsHrsLWnqVadUK1FlLd2-UlQvYkLL4E9A0LpyODNIQinXPfUMjUrbE=w480-h960-rw",9x Jalwa
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AXN.png",AXN(BD)
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
