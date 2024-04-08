@@ -243,7 +243,7 @@ https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m
 https://ythls.armelin.one/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8
 #EXTINF:-1 tvg-id="GoodNewsToday.in" tvg-logo="https://i.imgur.com/iMzUrb9.png" group-title="News Hindi",Good News Today (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCQC1wGbOOIoC23fRGxt4kbg.m3u8
-#EXTINF:-1 tvg-id="GulistanNews.in" tvg-logo="https://i.imgur.com/q5z6ycZ.png" group-title=" News Hindi",Gulistan News (720p)
+#EXTINF:-1 tvg-id="GulistanNews.in" tvg-logo="https://i.imgur.com/q5z6ycZ.png" group-title="News Hindi",Gulistan News (720p)
 https://livestream.jktvonline.com/hls/gul.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/MHdHCkJ8/E2mqi9q.jpg",Colors HD
 http://103.120.172.74:1070
@@ -285,6 +285,8 @@ https://ythls.armelin.one/channel/UC4--pPs1CVZvs60uuhfjdwQ.m3u8
 https://ddmanipur.org/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News Hindi",DD News (1080p)
 https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
+#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News Hindi",DD News HD (1080p)
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live
 #EXTINF:-1 tvg-id="DDPodhigai.in" tvg-logo="https://i.imgur.com/vbjkE84.png" group-title="Doordarshan",DD Podhigai (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC5-_zkjKabYd7tsLucKsriw.m3u8
 #EXTINF:-1 tvg-id="DDPuducherry.in" tvg-logo="https://i.imgur.com/bulvdUN.png" group-title="Doordarshan",DD Puducherry (720p) [Not 24/7]
