@@ -286,7 +286,7 @@ https://ddmanipur.org/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News Hindi",DD News (1080p)
 https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 #EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News Hindi",DD News HD (1080p)
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live
+https://www.youtube.com/watch?v=bzmwHag6Nno
 #EXTINF:-1 tvg-id="DDPodhigai.in" tvg-logo="https://i.imgur.com/vbjkE84.png" group-title="Doordarshan",DD Podhigai (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC5-_zkjKabYd7tsLucKsriw.m3u8
 #EXTINF:-1 tvg-id="DDPuducherry.in" tvg-logo="https://i.imgur.com/bulvdUN.png" group-title="Doordarshan",DD Puducherry (720p) [Not 24/7]
