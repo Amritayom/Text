@@ -527,11 +527,7 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/fSZ39zj/IMG-20240129-071418.png",Animal Planet
 https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/7Xqcg3M/IMG-20240129-071722.png",Discovery Science
-https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/3yp7V9G/IMG-20240129-071756.png",Discovery Turbo
-https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/ctD0Lss/IMG-20240129-071829.png",Food Network
+#EXTINF:-1 group-title="Food" tvg-logo="https://i.ibb.co/ctD0Lss/IMG-20240129-071829.png",Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/QFFs9zc/IMG-20240126-100324.jpg",HGTV
 https://dplus.gammacdn.workers.dev/videos/111.m3u8
@@ -613,7 +609,7 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://comedydynamics-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/Jn5D0W1j/Crackle.jpg",Crackle
 https://crackle-chickensoupforthesoul-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/667Vz85P/Curiosity.jpg",Curiosity Channel
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/667Vz85P/Curiosity.jpg",Curiosity Channel
 https://curiosity-africa.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/RVZBjxy2/image.jpg",Demand Africa
 https://demandafrica-lg.amagi.tv/playlist.m3u8
@@ -633,7 +629,7 @@ https://d89ea9d7a37f40408057298b5ea93acc.mediatailor.us-east-1.amazonaws.com/v1/
 https://aa1ce778ea0544e4aa7429bc8a16eb1c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_FashionTV/playlist.m3u8
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/PfvWr2FC/Film-Stream.jpg",Film Stream [SamsungTVPlus]
 https://1d508cb028524796ae97266f16331b51.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Filmstream/playlist.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/Y9vL97LY/download-7.jpg",Fox News US
+#EXTINF:-1 group-title="English News" tvg-logo="https://i.postimg.cc/Y9vL97LY/download-7.jpg",Fox News US
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/Y9vL97LY/download-7.jpg",Fox News US
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -758,8 +754,6 @@ https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="English Music" tvg-logo="https://i.postimg.cc/ZKhpJV48/image.jpg",Clubbing TV
 https://clubbingtv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music Hindi" tvg-logo="https://i.postimg.cc/SNzLHPqS/056bb4aa-a8a4-48d1-bad0-22b18089d22d-2.jpg",Desi Channel
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/SNzLHPqS/056bb4aa-a8a4-48d1-bad0-22b18089d22d-2.jpg",Desi Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
 #EXTINF:-1 group-title="Music Hindi" tvg-logo="https://i.postimg.cc/6pd1TJx7/220px-E24-TV-Channel.jpg",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
@@ -775,8 +769,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="English Music" tvg-logo="https://i.postimg.cc/qqdTxYxm/mad-dark.png",MAD
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 group-title="Music Hindi" tvg-logo="https://i.postimg.cc/4NBDYnq2/Mastiii-TV-logo_2.jpg",Mastiii
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/0769bb08-fe18-4211-918b-5cabad36229b/0.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/4NBDYnq2/Mastiii-TV-logo_2.jpg",Mastiii With Ad
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 #EXTINF:-1 group-title="Music Hindi" tvg-logo="https://i.postimg.cc/4NBDYnq2/Mastiii-TV-logo_2.jpg",Mastiii - 2
@@ -849,24 +841,6 @@ https://racingamerica-plex.amagi.tv/playlist.m3u8
 https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nzX8RPZ8/image.jpg",Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/pL0KR4SS/b5g-XEm8-B-400x400.jpg",SonyLIV
-https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/mZPhW8dK/SONY-Sports-Ten1-SD-Logo-CLR.png",Sony Ten 1
-http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/wvwFBbFW/SONY-Sports-Ten1-HD.png",Sony Ten 1 HD
-http://103.120.172.74:4800
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/wvwFBbFW/SONY-Sports-Ten1-HD.png",Sony Ten 1 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/bvMcxHQ2/SONY-Sports-Ten2-SD-Logo-CLR.png",Sony Ten 2
-http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/PJhLBt19/SONY-Sports-Ten2-HD.png",Sony Ten 2 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/c46RjRYJ/SONY-Sports-Ten3-SD-Logo-CLR.png",Sony Ten 3
-http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/sXvW8yQN/SONY-Sports-Ten5-HD-Logo-CLR.png",Sony Ten 5 HD
-http://103.120.172.74:5300
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/sXvW8yQN/SONY-Sports-Ten5-HD-Logo-CLR.png",Sony Ten 5 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/HnZjXKpr/image.jpg",Sports Grid
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/HnZjXKpr/image.jpg",Sports Grid
@@ -933,7 +907,7 @@ https://dplus.gammacdn.workers.dev/videos/95.m3u8
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/nh5jVtjF/download-4.jpg",Discovery Turbo
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/RZmWZprL/image_83.jpg",Food Food
+#EXTINF:-1 group-title="Food" tvg-logo="https://i.postimg.cc/RZmWZprL/image_83.jpg",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/bJZzk6ZM/GoUSA-TV.png",GoUSA TV [SamsungTVPlus]
 https://3b265effb709412a8b5988c98756fda0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_GoUSATV/playlist.m3u8
